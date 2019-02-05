@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">برنامج متعدد اللغات</string>
+
+    <string name="welcome">مرحبا</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup">تسجيل</string>
+
+    <string-array name="languages">
+        <item>Choose Language</item>
+        <item>Deutsch</item>
+        <item>français</item>
+        <item>English</item>
+        <item>العربية</item>
+    </string-array>
+
+</resources>

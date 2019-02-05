@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="White">#ffffff</color>
+    <color name="bg_color">#4e9b50</color>
+    <color name="bg_button_login">#3C873C</color>
+</resources>
